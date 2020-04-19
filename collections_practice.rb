@@ -11,3 +11,6 @@ def sort_array_desc(array)
 end
 
 # Returns an array in ascending order sorted by the number of characters
+def sort_array_char_count
+  
+end
