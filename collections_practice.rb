@@ -5,6 +5,6 @@ def sort_array_asc(array)
 end
 
 # Returns an array sorted in descending order
-def sort_array_dsc(array)
+def sort_array_desc(array)
   dsc_array = array.sort {|a, b| b <=> a}
 end
