@@ -1,4 +1,4 @@
 # Returns an array sorted in ascending order
-def sort_array_asc
+def sort_array_asc(array)
    
 end
