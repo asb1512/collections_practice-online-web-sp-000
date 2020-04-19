@@ -1,4 +1,4 @@
 # Returns an array sorted in ascending order
 def sort_array_asc(array)
-   array.sort
+   array.sort |a, b| {}
 end
