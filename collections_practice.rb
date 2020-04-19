@@ -42,5 +42,5 @@ end
 
 # Finds all words that begin with "a" in an array
 def find_a(array)
-  array.select{|element| element.starts_with?("a")}
+  array.select{|element| element.start_with?("a")}
 end
