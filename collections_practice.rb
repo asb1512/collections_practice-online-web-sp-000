@@ -9,3 +9,5 @@ def sort_array_desc(array)
   desc_array = array.sort {|a, b| b <=> a}
   desc_array
 end
+
+# Returns an array in ascending order sorted by the number of characters
