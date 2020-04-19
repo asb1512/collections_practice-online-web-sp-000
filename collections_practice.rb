@@ -11,6 +11,6 @@ def sort_array_desc(array)
 end
 
 # Returns an array in ascending order sorted by the number of characters
-def sort_array_char_count
-   
+def sort_array_char_count(array)
+  sorted_array = array.sort{|a, b| a.length <=> b.length}
 end
