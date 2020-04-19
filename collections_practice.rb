@@ -47,5 +47,5 @@ end
 
 # Sums all numbers in an array
 def sum_array(array)
-  
+  the_sum_of_array = array.sum
 end
