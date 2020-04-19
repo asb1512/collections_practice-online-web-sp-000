@@ -30,5 +30,7 @@ end
 
 # Takes an array as an input, changes the third character of each element to a dollar sign
 def kesha_maker(array)
-  
+  array.collect do |element|
+    
+  end
 end
