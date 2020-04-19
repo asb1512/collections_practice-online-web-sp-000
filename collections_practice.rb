@@ -15,3 +15,8 @@ def sort_array_char_count(array)
   sorted_array = array.sort{|a, b| a.length <=> b.length}
   sorted_array
 end
+
+# Swaps the second and third elements of an array
+def swap_elements
+  
+end
