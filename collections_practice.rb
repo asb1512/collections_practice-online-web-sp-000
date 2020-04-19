@@ -5,4 +5,4 @@ def sort_array_asc(array)
 end
 
 # Returns an array sorted in descending order
-def sort_array_dsc
+def sort_array_dsc(array)
