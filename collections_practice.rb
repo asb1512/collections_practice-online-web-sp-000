@@ -56,7 +56,6 @@ def add_s(array)
   array.collect do |element|
     if array.index(element) != 1
       element + "s"
-    else
     end
   end
 end
