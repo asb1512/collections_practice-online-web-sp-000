@@ -35,7 +35,7 @@ def kesha_maker(array)
   array.collect do |element|
     split_element_to_array = element.split("")
     split_element_to_array[2] = "$"
-    split_element_to_array.join
+    joined_array = split_element_to_array.join
     binding.pry
   end
 end
