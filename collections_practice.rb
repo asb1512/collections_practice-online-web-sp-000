@@ -53,5 +53,7 @@ end
 
 # Adds an 's' to each word in array except for the second element
 def add_s(array)
-  
+  array.collect do |element|
+    
+  end
 end
