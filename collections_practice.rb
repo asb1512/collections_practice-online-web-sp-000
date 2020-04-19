@@ -51,4 +51,4 @@ def sum_array(array)
   the_sum_of_array
 end
 
-# Adds an 's'
+# Adds an 's' to each word in array except for the second element
