@@ -40,7 +40,7 @@ def kesha_maker(array)
   end
 end
 
-# Finds all words that begin with "a" in an array
+# Finds all words that begin with 'a' in an array
 def find_a(array)
   array.select{|element| element.start_with?("a")}
 end
@@ -50,3 +50,5 @@ def sum_array(array)
   the_sum_of_array = array.sum
   the_sum_of_array
 end
+
+# Adds an 's'
