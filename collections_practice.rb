@@ -36,6 +36,7 @@ def kesha_maker(array)
     split_element_to_array = element.split("")
     split_element_to_array[2] = "$"
     joined_array = split_element_to_array.join
+    joined_array
     binding.pry
   end
 end
