@@ -27,3 +27,8 @@ def reverse_array(array)
   array.reverse!
   array
 end
+
+# Takes an array as an input, changes the third character of each element to a dollar sign
+def kesha_maker(array)
+  
+end
