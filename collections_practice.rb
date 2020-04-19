@@ -41,3 +41,4 @@ def kesha_maker(array)
 end
 
 # Finds all words that begin with "a" in an array
+def find_a(array)
